@@ -6,11 +6,6 @@
    <li> 😄  Pronouns: She/Her </li>
 </ul>
 
-<style>
-   ul {
-    list-style-type: none;
-}
-</style>
 
  <div>
   <a href="https://github.com/btomasmaiochi">
