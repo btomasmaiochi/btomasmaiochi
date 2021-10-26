@@ -1,10 +1,10 @@
 ### Hello, I'm Bruna Tomás Maiochi ❣️
 
-<ul>
- <li> 💉  Currently studying third-year of Medical School </li>
- <li> 💻  Also studying Frontend Development </li>
- <li> 😄  Pronouns: She/Her </li>
-</ul>
+
+  <p> 💉  Currently studying third-year of Medical School </p>
+  <p> 💻  Also studying Frontend Development </p>
+  <p> 😄  Pronouns: She/Her </p>
+
 
  <div>
   <a href="https://github.com/btomasmaiochi">
