@@ -7,7 +7,7 @@
 </ul>
 
 <style>
-   li {
+   ul {
     list-style-type: none;
 }
 </style>
