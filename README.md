@@ -1,8 +1,10 @@
 ### Hello, I'm Bruna Tomás Maiochi ❣️
 
-- 🩺 Currently studying third-year of Medical School 
-- 💻 Also studying Frontend Development
-- 😄 Pronouns: She/Her
+<ul>
+ <li> 💉 Currently studying third-year of Medical School </li>
+ <li> 💻 Also studying Frontend Development </li>
+ <li> 😄 Pronouns: She/Her </li>
+</ul>
 
  <div>
   <a href="https://github.com/btomasmaiochi">
@@ -19,10 +21,10 @@
   ##
  
 <div> 
-   <a href="https://www.linkedin.com/in/btomasmaiochi"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- <a href="https://codepen.io/btomasmaiochi"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/btommai"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:btomasmaiochi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/btomasmaiochi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://codepen.io/btomasmaiochi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://instagram.com/btommai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:btomasmaiochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
  
   ![Snake animation](https://github.com/btomasmaiochi/btomasmaiochi/blob/output/github-contribution-grid-snake.svg)
