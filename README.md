@@ -6,6 +6,12 @@
    <li> 😄  Pronouns: She/Her </li>
 </ul>
 
+<style>
+   li {
+    list-style-type: none;
+}
+</style>
+
  <div>
   <a href="https://github.com/btomasmaiochi">
   <img height="140m" src="https://github-readme-stats.vercel.app/api?username=btomasmaiochi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
