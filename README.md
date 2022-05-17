@@ -1,9 +1,9 @@
 ### Hello, I'm Bruna Tomás Maiochi ❣️
 
 
- #### 💉  Currently studying third-year of Med School 
- ####💻  Also studying Frontend Development 
- ####😄  Pronouns: She/Her
+ 💉  Currently studying third-year of Med School <br>
+ 💻  Also studying Frontend Development <br>
+ Pronouns: She/Her
 
 
 <div style="display: inline_block"><br>
