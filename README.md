@@ -1,5 +1,5 @@
 ### Hi everyone! Soy Bruna 💜
-#### Estudiante de tercer año de Medicina y desarrollo web Frontend.
+#### Estudiante desarrollo web Frontend.
 <div>
   <a href="https://github.com/btomasmaiochi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=btomasmaiochi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
