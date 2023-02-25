@@ -1,5 +1,6 @@
 ### Hi everyone! I'm Bruna Tomás Maiochi 💜
 #### 🖥️ Junior Frontend Developer
+#### 💟 Passionate about learning new technologies
 
 <img align="right" alt="Bru-gif" src="https://i.picasion.com/pic91/5048e3fe24e89bf5a7a43f2c55ec244a.gif">
 
