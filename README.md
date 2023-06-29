@@ -1,7 +1,6 @@
 ### Hi everyone! I'm Bruna Tomás Maiochi 💜
 #### 🖥️ Frontend Developer
 #### 💟 Passionate about learning new technologies
-#### "Love what you do and do what you love. Doing something new and different requires a level of drive and passion that is really hard to fake. When your heart is behind what you are doing, so much is possible.” - Tracy Sun
 
 <img align="right" alt="Bru-gif" src="https://i.picasion.com/pic91/5048e3fe24e89bf5a7a43f2c55ec244a.gif">
 
@@ -33,3 +32,5 @@
  <a href="https://codepen.io/btomasmaiochi" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://instagram.com/btommai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:btomasmaiochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  #### "Love what you do and do what you love. Doing something new and different requires a level of drive and passion that is really hard to fake. When your heart is behind what you are doing, so much is possible.” - Tracy Sun
