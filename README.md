@@ -33,4 +33,4 @@
   <a href="https://instagram.com/btommai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:btomasmaiochi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  ### "Love what you do and do what you love. Doing something new and different requires a level of drive and passion that is really hard to fake. When your heart is behind what you are doing, so much is possible.” - Tracy Sun
+  #### "Love what you do and do what you love. Doing something new and different requires a level of drive and passion that is really hard to fake. When your heart is behind what you are doing, so much is possible.” - Tracy Sun
